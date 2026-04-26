@@ -1,6 +1,7 @@
 # 📊 Production OEE Dashboard – Power BI
 
-> Interaktywny dashboard monitorowania OEE (Overall Equipment Effectiveness) dla linii produkcyjnych | zgodny z metodologią TPM i Lean Manufacturing
+> Interaktywny dashboard monitorowania OEE (Overall Equipment Effectiveness) dla linii produkcyjnych |
+> zgodny z metodologią TPM i Lean Manufacturing
 
 ## 🎯 O projekcie
 
