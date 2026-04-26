@@ -64,7 +64,7 @@ python przygotuj_dane.py
 ```
 Skrypt wygeneruje plik `data/oee_cleaned.xlsx`
 
-### 2. Otwórz dashboard
+### 2. Otwórz Dashboard
 Otwórz plik `OEE_Dashboard.pbix` w Power BI Desktop  
 (bezpłatny download: powerbi.microsoft.com/desktop)
 
